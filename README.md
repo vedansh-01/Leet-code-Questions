@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedansh-01/Leet-code-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedansh-01/Leet-code-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -36,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vedansh-01/Leet-code-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
