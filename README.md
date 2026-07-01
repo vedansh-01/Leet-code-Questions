@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0198-house-robber](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
