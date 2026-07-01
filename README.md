@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0797-all-paths-from-source-to-target) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
