@@ -32,7 +32,6 @@ public:
 
             prev = curr;
         }
-
         return prev[n - 1];
     }
 };
