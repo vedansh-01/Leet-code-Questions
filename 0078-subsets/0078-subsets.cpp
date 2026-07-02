@@ -1,18 +1,19 @@
 class Solution {
-public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> result;
-        vector<int> path;
-        backtrack(nums, 0, path, result);
-        return result;
-    }
-    
-    void backtrack(vector<int>& nums, int start, vector<int>& path, vector<vector<int>>& result) {
-        result.push_back(path);
-        for (int i = start; i < nums.size(); i++) {
-            path.push_back(nums[i]);
-            backtrack(nums, i + 1, path, result);
-            path.pop_back();
+ void solve(vector<int>& arr, int i, int n, vector<int>& temp, vector<vector<int>>&ans) {
+        if(i==n){
+            ans.push_back(temp);
+            return;
         }
+        temp.push_back(arr[i]);
+        solve(arr,i+1,n,temp,ans);
+        temp.pop_back();
+        solve(arr,i+1,n,temp,ans);
+    }
+public:
+    vector<vector<int>> subsets(vector<int>& arr) {
+        vector<vector<int>> ans;
+        vector<int> temp;
+        solve(arr, 0, arr.size(), temp, ans);
+        return ans;
     }
 };
