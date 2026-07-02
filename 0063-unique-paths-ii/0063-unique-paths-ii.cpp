@@ -11,11 +11,9 @@ public:
 
             for (int j = 0; j < n; j++) {
 
-                // Obstacle
                 if (obstacleGrid[i][j] == 1) {
                     curr[j] = 0;
                 }
-                // Starting cell
                 else if (i == 0 && j == 0) {
                     curr[j] = 1;
                 }
