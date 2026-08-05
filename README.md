@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -57,9 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vedansh-01/Leet-code-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
